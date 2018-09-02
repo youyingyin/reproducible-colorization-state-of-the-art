@@ -15,3 +15,5 @@ Criteria: works must have codes available, and the reproducible results demonstr
 * [[web]](http://richzhang.github.io/colorization/)[[Code]](https://github.com/richzhang/colorization) [[PDF]](https://arxiv.org/abs/1603.08511)
   * **Colorful Image Colorization**(Richard Zhang, Phillip Isola, Alexei A. Efros. In ECCV 2016)
 ## Video Colorization
+* [[web]](https://varunjampani.github.io/vpn/)[[Code]](https://github.com/varunjampani/video_prop_networks) [[PDF]](https://varunjampani.github.io/papers/jampani17_VPN.pdf)
+  * **Video Propagation Networks**(Varun Jampani, Raghudeep Gadde, Peter V. Gehler. In CVPR 2016)
